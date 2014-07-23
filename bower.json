@@ -1,0 +1,23 @@
+{
+  "name": "TextareaResizer",
+  "version": "0.0.1",
+  "authors": [
+    "YoshiyukiKato <yo.shuuuuki@gmail.com>"
+  ],
+  "description": "Simple script for resizing HTML textarea elements according to size of inputted contents.",
+  "keywords": [
+    "textarea",
+    "resize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
